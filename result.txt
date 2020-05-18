@@ -1,0 +1,300 @@
+1 yes Overall Survival (Months) < 98 2 3
+2 yes Tumor Size < 25 4 5
+4 yes Lymph nodes examined positive < 1 8 9
+8 yes Hormone Therapy 16 17
+16 yes PR Status 30 31
+30 yes Breast Cancer Type in {4,2,0,1} 50 51
+50 yes HER2 Status 84 85
+84 yes Mutation Count < 3 yes no
+85 no Mutation Count < 3 140 yes
+140 yes Age at Diagnosis < 57 yes no
+51 no Mutation Count < 3 no yes
+31 no Age at Diagnosis < 56 52 53
+52 yes Mutation Count < 3 88 yes
+88 yes Radio Therapy no yes
+53 no Neoplasm Histologic Grade in {3,2} 90 91
+90 yes Nottingham prognostic index < 4 144 no
+144 yes Breast Cancer Type in {0,1} 198 no
+198 yes Mutation Count < 5 no no
+91 no Mutation Count < 4 146 yes
+146 yes Radio Therapy no yes
+17 no Mutation Count < 4 32 33
+32 yes Tumor Stage in {0,1} 54 yes
+54 yes Cellularity in {2} 92 no
+92 yes Age at Diagnosis < 50 no yes
+33 no Age at Diagnosis < 49 56 57
+56 yes Chemotherapy yes no
+57 no Radio Therapy 96 97
+96 yes Neoplasm Histologic Grade in {2} no 151
+151 no ER Status 202 203
+202 yes Cellularity in {0,2} yes no
+203 no Cellularity in {0,2} no 267
+267 no Chemotherapy no 329
+329 no Inferred Menopausal State no no
+97 no Cellularity in {2} yes 153
+153 no Chemotherapy yes 205
+205 no ER Status 268 no
+268 yes Breast Cancer Type in {0,1} yes 331
+331 no HER2 Status yes no
+9 no Nottingham prognostic index < 5 18 19
+18 yes Mutation Count < 6 34 35
+34 yes Type of Breast Surgery 58 59
+58 yes Age at Diagnosis < 52 98 99
+98 yes Neoplasm Histologic Grade in {2} yes no
+99 no PR Status no 157
+157 no HER2 Status no no
+59 no Chemotherapy no yes
+35 no Age at Diagnosis < 44 yes 61
+61 no Radio Therapy no 103
+103 no Cellularity in {0,2} no yes
+19 no Mutation Count < 14 36 yes
+36 yes ER Status 62 63
+62 yes Cellularity in {2} 104 105
+104 yes Age at Diagnosis < 62 160 161
+160 yes PR Status 208 no
+208 yes Radio Therapy yes 271
+271 no Hormone Therapy no yes
+161 no PR Status no 211
+211 no Neoplasm Histologic Grade in {2} yes 273
+273 no Chemotherapy no 335
+335 no Breast Cancer Type in {4,2,0,1} no no
+105 no Age at Diagnosis < 78 162 163
+162 yes HER2 Status 212 no
+212 yes Chemotherapy yes no
+163 no HER2 Status no yes
+63 no Age at Diagnosis < 49 no 107
+107 no Cellularity in {0,2} 164 no
+164 yes PR Status no yes
+5 no Nottingham prognostic index < 6 10 11
+10 yes Age at Diagnosis < 79 20 no
+20 yes ER Status 38 39
+38 yes Mutation Count < 2 64 65
+64 yes Lymph nodes examined positive < 1 108 yes
+108 yes Hormone Therapy no 167
+167 no Cellularity in {2} no yes
+65 no Cellularity in {0,2} 110 111
+110 yes Breast Cancer Type in {4,2,0,1} 168 169
+168 yes Hormone Therapy 220 221
+220 yes Lymph nodes examined positive < 3 276 no
+276 yes Neoplasm Histologic Grade in {3,2} 336 yes
+336 yes Chemotherapy no 387
+387 no HER2 Status 436 437
+436 yes Radio Therapy no yes
+437 no Radio Therapy 484 485
+484 yes Tumor Stage in {4,2,0,1} 516 yes
+516 yes Inferred Menopausal State no 545
+545 no Type of Breast Surgery 576 577
+576 yes PR Status no no
+577 no PR Status no no
+485 no Inferred Menopausal State yes 519
+519 no Tumor Stage in {0,1} 546 547
+546 yes PR Status yes no
+547 no PR Status no no
+221 no Lymph nodes examined positive < 1 278 yes
+278 yes Neoplasm Histologic Grade in {2} 338 no
+338 yes PR Status yes no
+169 no Lymph nodes examined positive < 1 222 yes
+222 yes HER2 Status yes no
+111 no Radio Therapy 170 171
+170 yes Lymph nodes examined positive < 3 224 225
+224 yes Neoplasm Histologic Grade in {2} yes 283
+283 no PR Status 340 no
+340 yes Chemotherapy yes 391
+391 no Type of Breast Surgery no no
+225 no Neoplasm Histologic Grade in {3,2} no yes
+171 no Chemotherapy 226 no
+226 yes Inferred Menopausal State 286 no
+286 yes Lymph nodes examined positive < 2 yes no
+39 no Tumor Stage in {4,2,0,1} 66 67
+66 yes Cellularity in {2} 112 no
+112 yes Type of Breast Surgery 172 173
+172 yes Mutation Count < 12 228 229
+228 yes Inferred Menopausal State no 289
+289 no Lymph nodes examined positive < 1 no 345
+345 no Radio Therapy no no
+229 no HER2 Status yes no
+173 no Mutation Count < 7 230 no
+230 yes Hormone Therapy no 293
+293 no Lymph nodes examined positive < 2 yes no
+67 no Cellularity in {2} no yes
+11 no Mutation Count < 4 22 no
+22 yes Age at Diagnosis < 48 40 41
+40 yes Lymph nodes examined positive < 9 no yes
+41 no Lymph nodes examined positive < 5 70 no
+70 yes PR Status yes no
+3 no Age at Diagnosis < 83 6 7
+6 yes ER Status 12 13
+12 yes Neoplasm Histologic Grade in {3,2} 24 25
+24 yes Mutation Count < 5 42 43
+42 yes Radio Therapy 72 73
+72 yes Lymph nodes examined positive < 31 118 no
+118 yes Hormone Therapy 174 175
+174 yes Inferred Menopausal State yes 233
+233 no Tumor Stage in {0,1} yes 295
+295 no Breast Cancer Type in {0,1} 348 349
+348 yes Tumor Size < 29 394 yes
+394 yes PR Status 440 441
+440 yes Cellularity in {0,2} 486 487
+486 yes Nottingham prognostic index < 5 yes 521
+521 no Type of Breast Surgery yes yes
+487 no Chemotherapy yes 523
+523 no Nottingham prognostic index < 5 550 551
+550 yes Type of Breast Surgery no yes
+551 no Type of Breast Surgery yes no
+441 no Chemotherapy no 489
+489 no Type of Breast Surgery 524 525
+524 yes HER2 Status yes 553
+553 no Cellularity in {0,2} no 587
+587 no Nottingham prognostic index < 6 no yes
+525 no Cellularity in {2} yes no
+349 no Cellularity in {2} 396 yes
+396 yes Tumor Size < 28 yes 443
+443 no Type of Breast Surgery no yes
+175 no Tumor Size < 12 no 235
+235 no HER2 Status no 297
+297 no Inferred Menopausal State yes 351
+351 no Type of Breast Surgery yes 399
+399 no Nottingham prognostic index < 4 444 no
+444 yes Breast Cancer Type in {0,1} yes 493
+493 no Cellularity in {0,2} yes no
+73 no Lymph nodes examined positive < 1 120 121
+120 yes Tumor Size < 27 176 177
+176 yes Cellularity in {2} yes 237
+237 no Breast Cancer Type in {4,2,0,1} 298 no
+298 yes Inferred Menopausal State 352 353
+352 yes Nottingham prognostic index < 4 no yes
+353 no Nottingham prognostic index < 4 yes 403
+403 no Hormone Therapy yes 447
+447 no PR Status no yes
+177 no Cellularity in {0,2} 238 239
+238 yes HER2 Status yes no
+239 no Breast Cancer Type in {4,2,0,1} yes no
+121 no Tumor Size < 16 no 179
+179 no Breast Cancer Type in {4,2,0,1} 240 yes
+240 yes Chemotherapy yes 305
+305 no Cellularity in {2} 354 355
+354 yes PR Status yes 405
+405 no Nottingham prognostic index < 5 no no
+355 no Type of Breast Surgery 406 no
+406 yes Hormone Therapy 450 no
+450 yes Nottingham prognostic index < 3 no no
+43 no Tumor Size < 15 74 75
+74 yes Type of Breast Surgery 122 yes
+122 yes Radio Therapy no 181
+181 no Hormone Therapy yes 243
+243 no Breast Cancer Type in {1} 306 yes
+306 yes Lymph nodes examined positive < 1 356 yes
+356 yes Inferred Menopausal State no 409
+409 no Nottingham prognostic index < 4 no yes
+75 no Nottingham prognostic index < 4 124 125
+124 yes Cellularity in {2} 182 183
+182 yes PR Status 244 yes
+244 yes Breast Cancer Type in {0,1} 308 yes
+308 yes Lymph nodes examined positive < 1 358 no
+358 yes Radio Therapy 410 411
+410 yes Inferred Menopausal State yes 455
+455 no Type of Breast Surgery no 499
+499 no Hormone Therapy 528 529
+528 yes Tumor Stage in {0,1} no yes
+529 no Tumor Stage in {0,1} yes no
+411 no Inferred Menopausal State 456 yes
+456 yes Hormone Therapy yes no
+183 no PR Status 246 247
+246 yes HER2 Status no 311
+311 no Tumor Stage in {0,1} 360 361
+360 yes Hormone Therapy 412 yes
+412 yes Radio Therapy yes 459
+459 no Breast Cancer Type in {0,1} 502 no
+502 yes Lymph nodes examined positive < 1 yes yes
+361 no Type of Breast Surgery 414 415
+414 yes Breast Cancer Type in {4,2,0,1} 460 no
+460 yes Hormone Therapy 504 505
+504 yes Inferred Menopausal State 532 yes
+532 yes Lymph nodes examined positive < 1 no yes
+505 no Radio Therapy yes 535
+535 no Inferred Menopausal State no no
+415 no Lymph nodes examined positive < 1 yes no
+247 no Breast Cancer Type in {4,2,0,1} no yes
+125 no PR Status 184 185
+184 yes Breast Cancer Type in {0,1} 248 249
+248 yes Inferred Menopausal State 314 315
+314 yes Lymph nodes examined positive < 1 362 363
+362 yes Hormone Therapy no yes
+363 no Cellularity in {2} 418 yes
+418 yes Chemotherapy 464 yes
+464 yes Hormone Therapy no yes
+315 no Type of Breast Surgery 364 365
+364 yes Tumor Stage in {0,1} yes 421
+421 no Lymph nodes examined positive < 8 466 no
+466 yes HER2 Status 508 509
+508 yes Cellularity in {0,2} 536 no
+536 yes Radio Therapy no yes
+509 no Hormone Therapy 538 539
+538 yes Chemotherapy no 567
+567 no Radio Therapy 588 589
+588 yes Cellularity in {0,2} no yes
+589 no Cellularity in {0,2} yes no
+539 no Cellularity in {2} yes no
+365 no Chemotherapy yes 423
+423 no Hormone Therapy 468 469
+468 yes Tumor Stage in {0,1} no 511
+511 no HER2 Status no 541
+541 no Lymph nodes examined positive < 3 570 no
+570 yes Cellularity in {2} no no
+469 no Cellularity in {0,2} no yes
+249 no Cellularity in {2} no 317
+317 no Lymph nodes examined positive < 3 366 no
+366 yes Radio Therapy 424 yes
+424 yes Type of Breast Surgery no yes
+185 no Cellularity in {0,2} 250 251
+250 yes Hormone Therapy 318 319
+318 yes Lymph nodes examined positive < 4 368 yes
+368 yes Breast Cancer Type in {1} 426 yes
+426 yes Chemotherapy yes 473
+473 no HER2 Status yes 515
+515 no Radio Therapy 542 543
+542 yes Tumor Stage in {0,1} yes yes
+543 no Tumor Stage in {0,1} no yes
+319 no Chemotherapy yes 371
+371 no Inferred Menopausal State no 429
+429 no HER2 Status no yes
+251 no Tumor Stage in {0,1} no 321
+321 no Breast Cancer Type in {0,1} 372 no
+372 yes Lymph nodes examined positive < 4 yes 431
+431 no Radio Therapy yes no
+25 no Tumor Size < 85 44 no
+44 yes Mutation Count < 2 76 77
+76 yes Breast Cancer Type in {0,1} yes no
+77 no Inferred Menopausal State 128 yes
+128 yes Cellularity in {0,2} yes 187
+187 no Tumor Stage in {0,1} no yes
+13 no Hormone Therapy 26 27
+26 yes Lymph nodes examined positive < 15 46 no
+46 yes Tumor Size < 3 no 79
+79 no Mutation Count < 3 130 131
+130 yes Breast Cancer Type in {0,1} yes no
+131 no HER2 Status 190 191
+190 yes Neoplasm Histologic Grade in {2} yes 255
+255 no Cellularity in {0,2} no 323
+323 no Chemotherapy 374 yes
+374 yes Nottingham prognostic index < 6 432 yes
+432 yes Radio Therapy no yes
+191 no Nottingham prognostic index < 5 yes 257
+257 no Inferred Menopausal State yes 325
+325 no Cellularity in {0,2} yes no
+27 no Cellularity in {0,2} 48 49
+48 yes Mutation Count < 6 yes 81
+81 no Tumor Size < 25 yes 133
+133 no Inferred Menopausal State 192 yes
+192 yes Lymph nodes examined positive < 2 no yes
+49 no Tumor Size < 14 82 83
+82 yes Chemotherapy yes no
+83 no Mutation Count < 5 136 yes
+136 yes Tumor Stage in {0,1} yes 195
+195 no HER2 Status yes 261
+261 no Lymph nodes examined positive < 4 326 yes
+326 yes Inferred Menopausal State no 379
+379 no Chemotherapy yes 435
+435 no Type of Breast Surgery no yes
+7 no PR Status no 15
+15 no Mutation Count < 3 no yes
